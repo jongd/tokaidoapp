@@ -1,0 +1,17 @@
+
+PODS:
+- Mantle (0.2):
+  - libextobjc/EXTKeyPathCoding
+  - libextobjc/EXTScope
+- libextobjc/EXTKeyPathCoding (0.2.0)
+- libextobjc/EXTScope (0.2.0)
+
+DEPENDENCIES:
+- Mantle
+
+SPEC CHECKSUMS:
+  Mantle: b24188e3f0d2fdd165a51a8fae4528b793e4dc55
+  libextobjc/EXTKeyPathCoding: 7fa6e319cdbc60451ba416fb42808496726f71a8
+  libextobjc/EXTScope: 7fa6e319cdbc60451ba416fb42808496726f71a8
+
+COCOAPODS: 0.15.2
